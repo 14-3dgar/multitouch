@@ -1,7 +1,7 @@
 // We use class syntax to define our extension object
 // This isn't actually necessary, but it tends to look the best
 
-class MyExtension {
+class MultiTouch {
   /**
    * Scratch will call this method *once* when the extension loads.
    * This method's job is to tell Scratch things like the extension's ID, name, and what blocks it supports.
@@ -12,11 +12,11 @@ class MyExtension {
       // It should never change!
       // If you choose to make an actual extension, please change this to something else.
       // Only the characters a-z and 0-9 can be used. No spaces or special characters.
-      id: 'myextensionexample',
+      id: 'multitouch',
 
       // `name` is what the user sees in the toolbox
       // It can be changed without breaking projects.
-      name: 'Cool Extension',
+      name: 'Multi-Touch',
 
       blocks: [
         {
@@ -44,4 +44,4 @@ class MyExtension {
 
 // Call Scratch.extensions.register to register your extension
 // Make sure to register each extension exactly once
-Scratch.extensions.register(new MyExtension());
+Scratch.extensions.register(new MultiTouch());
