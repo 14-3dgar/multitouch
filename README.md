@@ -22,7 +22,8 @@ To do it, use this reporter:
 ![enter image description here](https://github.com/LOLEMO/multitouch/blob/main/imagen_2023-02-02_192804782.png?raw=true)
 
 
-This will return first's finger X and Y coordinates
+This will return first's finger X and Y coordinates.
+
 Change "0" to the finger you want, starting by 0. (0 is the first finger)
 
 > Won't work on PC!
