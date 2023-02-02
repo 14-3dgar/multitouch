@@ -11,7 +11,7 @@ class multiTouch {
       blocks: [
         {
           opcode: 'coord',
-          text: 'Coordenada [thing] del cursor [target] ',
+          text: 'Coordinate [thing] of finger [target] ',
           blockType: Scratch.BlockType.REPORTER,
           arguments: {
             thing: {
