@@ -23,7 +23,7 @@ To do it, use this reporter:
 
 
 This will return first's finger X and Y coordinates
+Change "0" to the finger you want, starting by 0. (0 is the first finger)
 
 > Won't work on PC!
 
-Change "0" to the finger you want, starting by 0. (0 is the first finger)
