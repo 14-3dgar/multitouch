@@ -1,8 +1,17 @@
 
 ![enter image description here](https://github.com/LOLEMO/multitouch/blob/main/logo%20%281%29.png?raw=true)
 
-This extension lets you get X and Y coordinates of each finger on a phone or any touch device.
-Useful for mobile games with joy-stick and other buttons.
+
+> **Warning**
+> This extension is no longer going to be updated!
+
+> **Note**
+> Use TurboWarp's Sensing+ extension instead for better performance and more features
+ 
+ 
+ 
+ 
+ 
 
 
 ## Installation
